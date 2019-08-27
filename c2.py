@@ -1,0 +1,6 @@
+name=input("enter your name")
+print(name)
+print(type(name))
+collegename=input("enter your college name")
+cgpa=float(input("enter your cgpa"))
+print("i am",name,"i am studying in",collegename,"cgpa",cgpa)
